@@ -1,7 +1,5 @@
 # Hello! I'm João Cussolim! 🫵<img src="https://github.com/user-attachments/assets/3c4f89d4-6be2-41fd-a023-7e8525bb922b" width="50" height="50">
 
-### Passionate Developer and Technology Enthusiast Building Amazing Software.
-
 <div>
 <a href="https://github.com/JoaoCussolim">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCussolim&layout=compact&langs_count=7&theme=dracula"/>
