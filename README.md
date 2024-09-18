@@ -55,5 +55,5 @@ You can reach out to me via email at [joaovccussolim@gmail.com](mailto:joaovccus
 
 ## 💕 Thanks!
 
-Thanks for reading it all!
+Thanks for reading it all!<br>
 Have a good day. 😊
