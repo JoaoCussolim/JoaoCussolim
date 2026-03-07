@@ -1,10 +1,5 @@
 # Hello! I'm João Cussolim! 🫵<img src="https://github.com/user-attachments/assets/3c4f89d4-6be2-41fd-a023-7e8525bb922b" width="50" height="50">
 
-<div>
-<a href="https://github.com/JoaoCussolim">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cc24136&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ## 🚀 About Me
 
 - 😼 I love developing softwares and learning about new languages.<br>
