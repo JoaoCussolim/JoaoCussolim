@@ -74,6 +74,7 @@ You can reach out to me via email at [joaovccussolim@gmail.com](mailto:joaovccus
 - I enjoy mixing programming, storytelling and game design.
 - Probably designing an RPG mechanic while debugging something.
 - If an idea sounds impossible, I’ll probably try to build it anyway.
+- Many of my projects have a cashew theme as a tribute to my favorite teacher, whose favorite fruit is the cashew apple.
 
 ## 💕 Thanks!
 
