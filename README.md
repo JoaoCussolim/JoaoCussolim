@@ -1,5 +1,11 @@
 # Hello! I'm João Cussolim! 🫵<img src="https://github.com/user-attachments/assets/3c4f89d4-6be2-41fd-a023-7e8525bb922b" width="50" height="50">
 
+![](https://github-readme-stats.vercel.app/api?username=JoaoCussolim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JoaoCussolim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCussolim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=JoaoCussolim&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🚀 About Me
 
 - 😼 I love developing softwares and learning about new languages.<br>
@@ -51,12 +57,11 @@
 
 ## 🔭 Projects
 
-- 🥭 [Cajuice](https://github.com/JoaoCussolim/Cajuice): A website developed by me and my friends about games made in HTML5 Canvas! [Try it out!](https://cajuice.vercel.app/)
-- 🍀 [Lucky Journey](https://github.com/JoaoCussolim/Lucky-Journey): A open world RPG game made in HTML5 Canvas where u can explore a **Infinite World**. ***Good Luck***. **WIP**
+- **WIP**
 
 ## ☀️ Currently Learning
 
-I like to study more than the basic, to always stay a little further than what is expected. Currently, I'm focused in game developing and world generation codes! ⭐
+I like to study more than the basic, to always stay a little further than what is expected. Currently, I'm focused in ai developing and accessible websites! ⭐
 
 ## 📫 How to Reach Me
 
@@ -64,7 +69,11 @@ You can reach out to me via email at [joaovccussolim@gmail.com](mailto:joaovccus
 
 ## ✨ Fun Facts
 
-- I usually finishes my personal projects with a lot of additional functions that are harder to do than the project by itself. 🫠
+- I turn random ideas into real projects (apps, games, AI tools, or whatever compiles).
+- Currently exploring Machine Learning, Computer Vision and Neural Networks.
+- I enjoy mixing programming, storytelling and game design.
+- Probably designing an RPG mechanic while debugging something.
+- If an idea sounds impossible, I’ll probably try to build it anyway.
 
 ## 💕 Thanks!
 
